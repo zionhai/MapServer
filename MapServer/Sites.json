@@ -1,0 +1,28 @@
+[
+  {
+    "id": 16793,
+    "creationDate": "2020-11-17T20:07:31Z",
+    "displayName": "Natural Gas: Regulator Station",
+    "latitude": "31.809415",
+    "longitude": "35.108851",
+    "status": "Active"
+  },
+  {
+    "id": 16794,
+    "creationDate": "2020-11-17T20:38:15Z",
+    "latitude": "32.517127",
+    "longitude": "35.148529",
+    "displayName": "Wastewater: CSO, Level and Flow",
+    "status": "Active",
+    "accountOrganizationId": null
+  },
+  {
+    "id": 16795,
+    "creationDate": "2020-11-17T20:38:15Z",
+    "latitude": "29.554896",
+    "longitude": "34.960840",
+    "displayName": "Power Station",
+    "status": "Active",
+    "accountOrganizationId": null
+  }
+]
